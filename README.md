@@ -1,4 +1,5 @@
-# CSX42: Assignment 2
+# YouTube Video Popularity Score State Machine
+
 **Name:** Rashmi A.Badadale
 
 -----------------------------------------------------------------------
